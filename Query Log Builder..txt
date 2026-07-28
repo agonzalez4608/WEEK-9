@@ -1,0 +1,8 @@
+Query Log Builder.
+
+
+1	How could I write my Weeks 6–8 reflection so it focused more on the work I did during the project instead of just the final outcome?	Week 9 Reflection Template, assignment instructions, and AI	I learned that my reflection should describe the steps I took to plan, test, improve, and document my project, not just explain what I completed.	I updated my reflection to focus on my development process and finished all of the required sections.
+
+2	How do arrays and the different types of loops work in the Week 9 Pathway A project?	Week 9 starter code, Visual Studio, course materials, and AI	I learned that arrays are used to store related information, while For...Next, Do...Loop, and For Each loops repeat tasks like displaying menu options and reviewing user selections.	I completed the Pathway A assignment, updated the required menu options, tested the program, and wrote my own explanation of how each loop works.
+
+3	How do I complete the Week 9 Pathway B project and fix errors while following the video tutorial?	VB.NET Loops Video Tutorial, Visual Studio, program testing, error messages, and AI	I learned how to build the WPF application, solve coding errors, and customize the project by changing the title to Ever After Cafe and displaying Table1 through Table10.	I finished the Pathway B project, tested it to make sure it worked correctly, took the required screenshots, and organized my GitHub repository before submitting it.
