@@ -1,0 +1,20 @@
+﻿Week 9 Progress Post
+
+One thing I learned from Weeks 6-8:  I learned that coding can be a process that can be affected by the slightest mistake in spelling or actions and paying attention to every detail in the code can save you the headaches later.
+
+One source that helped me: Youtube
+
+How code connects to people, machines, or documentation: Being able to create applications and services through code so people can access and help with projects and streamline 
+
+My loops and arrays practice uses:
+- Array: Stores the menu choices used in the Pathway A starter project.
+- For...Next: Displays each menu option and repeats a set number of times.
+- For Each: Reviews each item stored in the program.
+- Do...Loop: Repeats the menu until the user chooses to exit.
+
+Pathway A text starter project status: Completed and changed 4 of the menu items.
+
+Pathway B video tutorial project status: Completed and customized with a personal change.
+
+Git repo link: https://github.com/agonzalez4608/WEEK-9
+
