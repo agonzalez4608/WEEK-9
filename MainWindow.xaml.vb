@@ -1,0 +1,29 @@
+﻿Class MainWindow
+    Dim gamePlay As Boolean = True
+    Private Sub Button_Click(sender As Object, e As RoutedEventArgs) Handles btnLoop.Click
+        Dim Rnd As New Random
+        Dim intRandomNum As Integer = 0
+
+        lstNumbers.Items.Clear()
+
+        'Do Until intRandomNum = 10
+        '    intRandomNum = Rnd.Next(100)
+        '    lstNumbers.Items.Add(intRandomNum.ToString())
+
+
+        'Loop
+
+        Do While intRandomNum < 10
+            intRandomNum = Rnd.Next(100)
+            lstNumbers.Items.Add(intRandomNum.ToString())
+
+        Loop
+
+
+    End Sub
+
+    Private Sub btnClear_Click(sender As Object, e As RoutedEventArgs) Handles btnClear.Click
+        lstNumbers.Items.Clear()
+        txtNumbers.Text = ""
+    End Sub
+End Class

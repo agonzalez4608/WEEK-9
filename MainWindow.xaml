@@ -1,0 +1,29 @@
+﻿<Window x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pathway_B_Week_9"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="btnLoop" Content="Loop" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="54,112,0,0" VerticalAlignment="Top"/>
+        <TextBlock x:Name="txtNumbers" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="372,132,0,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <ListBox x:Name="lstNumbers" Grid.ColumnSpan="2" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="529,104,66,51" RenderTransformOrigin="0.5,0.5" Height="auto">
+            <ListBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="-0.116"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="-0.441"/>
+                </TransformGroup>
+            </ListBox.RenderTransform>
+        </ListBox>
+        <Button x:Name="btnClear" Content="Clear" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="54,0,0,0" VerticalAlignment="Center"/>
+
+    </Grid>
+</Window>
