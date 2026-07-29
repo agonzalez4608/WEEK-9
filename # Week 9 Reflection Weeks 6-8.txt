@@ -1,0 +1,58 @@
+# Week 9 Reflection: Weeks 6-8
+
+## Name
+
+ALEXIS GONZALEZ
+
+## Project Or App Name
+
+ANIME WATCH LIST
+
+## Part 1: Development Process
+I was able to complete some of the coding and be able to actually input the information needed to actually choose the animes and rate them.
+
+## Part 2: Querying And Research
+
+|For the .Json of Week 8 should I use the same foldermakerapp or start a new one?|I looked on the discord as well as the Week 8 website link|I learned exactly what I needed to do with careful reading and student examples.|Used to successful add the .json file for week 8.|
+|I pasted the code exactly as is for week 6-7 but it still did not run no matter what I did.|I checked discord to see if anyone ran into the same issues and the week 6-7 website to follow the tutorial closer.|I learned that even the smallest space or mistype can ruin the entire code from working.|I typed out the top area of the code which was causing me trouble and used it to correctly enable my foldermaker app to work.|
+|Is it possible to make changes to the default text on the foldermaker app?|I looked inside of my visual studio app and did ctrl+F to find the exact text that I was looking to change and remembered the video tutorials from week 3.|I learned that once you locate the text that you want to change, you can make all sorts of changes including text color, location, and what exactly is being said.|I used it to personalize my foldermaker app and give it more realism to the story and app I was trying to make.|
+
+
+## Part 3: Code Does Not Live Alone
+
+My code connects to soft skills, hard skills, collaboration, machines, documentation, and communication because each week involves much more than just completing the assignment and submitting it. I had to read the course materials and watch several videos to learn new concepts and see examples of how the code should be written. I also needed technical skills to use Visual Studio, organize my project files, and upload my work to GitHub or cloud storage while making sure the links worked correctly.
+## Part 4: What I Would Change
+
+ I would change my documentation to go from .docx to .txt so they are much easier to read and preview when uploaded to the GitHub. I would also look to change the personalized text from the foldermaker app to make it more
+generalized so that when working in tandem with the .json file that gets created, it reflects anyone who types in their name personalizing the experience to each individual.
+
+## Part 5: Week 9 Coding Practice
+Explain both required coding pathways.
+
+Pathway A is the Text Starter and with the provided starter code, we need to make three changes and explain the array and loops. Pathway B is a video tutorial about VB.NET loops and we need to follow along with the video. From there
+we are asked to make a change from our template, character, list, menu item, or information documenting it with screenshots along the way.
+
+- Array used: storyChoices
+- Loop used to display choices: For...Next
+- Loop used to repeat the program: Do...Loop
+- Three choices I changed: Chest and triceps, Rest Day, and Back and biceps.
+
+### Pathway B: Video Tutorial
+Explain what you built by following the VB.NET loops video.
+
+- Project from the video: Week9 pathway B loops
+- Loop or loops used: While Loop that shows values which I made go up to 100 each click and could clear as well.
+- My small personal change:I made it display 100 values that keep on going higher and higher the more you click instead of just the 10 value that was in the video.
+- Screenshot location: Folder in Github
+
+## Part 6: Git Submission Map
+Your root README must explain where the instructor can find every item you want graded.
+
+- Reflection location:
+- Query log location:
+- Pathway A text starter project location:
+- Pathway B video tutorial project location:
+- Screenshots location:
+- Discord proof location:
+- Assets or libraries location:
+- README location:
